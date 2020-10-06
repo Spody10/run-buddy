@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+
 # Run Buddy Inc.
+
+=======
+
+# Run Buddy, Inc
+
+> > > > > > > 14ee4e438498f794e4a60e2ca86348688f964fde
 
 ## Purpose
 
@@ -16,3 +24,5 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Michael Spore
+
+### ©️2019 Run Buddy, Inc
